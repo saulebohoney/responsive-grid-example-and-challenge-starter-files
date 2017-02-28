@@ -45,7 +45,8 @@
   padding-right: 1.04166666%;
 }
 
-/* Mobile defaults */
+/* Mobile defaults */git remote add origin https://github.com/saulebohoney/grid-assignment.git
+git push -u origin ma
 .col-3, .col-4, .col-6, .col-12 {
   width: 100%;
 }
